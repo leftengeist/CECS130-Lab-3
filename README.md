@@ -1,5 +1,5 @@
 # Introduction to Programming Languages CECS130
-## Lab 3
+## Lab 3.
 ### Programming assignment (100 pts): Write a computer program in C which will simulate a calculator. Your calculator needs to support the five basic operations (addition, subtraction, multiplication, division and modulus) plus primality testing (natural number is prime if it has no non-trivial divisors). Example of the output follows:
 
 #### Calculator Menu:
